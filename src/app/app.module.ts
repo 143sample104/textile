@@ -25,10 +25,7 @@ import { LoginComponent } from './login/login.component';
 
 const appRoutes:Routes=[
  
-  {
-    path:'',
-    component:LoginComponent
-  }, {
+ {
   path:'main',
   component:MainComponent
 },
